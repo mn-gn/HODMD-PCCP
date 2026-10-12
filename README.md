@@ -41,10 +41,6 @@ Angstrom, phase=pi and Gaussian IRF FWHM=100 fs on a 1 fs calculation grid.
 The generator reproduces the included A exactly. Cleanup preserved the 90%
 input's HODMD and fit results. No experimental data are included.
 
-## References
-
-Le Clainche & Vega (2017), Higher order dynamic mode decomposition.
-https://doi.org/10.1137/15M1054924
 
 Jovanovic et al. (2014), Sparsity-promoting dynamic mode decomposition.
 https://doi.org/10.1063/1.4863670
